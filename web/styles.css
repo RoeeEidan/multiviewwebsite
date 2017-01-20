@@ -62,3 +62,46 @@ section h1{
 .sectionhead {
     font-weight: bold;
 }
+
+.foot{
+position: absolute;
+bottom: 0px;
+width: 100%;
+height: 100px;
+}
+
+.logo{
+width: 100%;
+height: 100px;
+position: absolute;
+bottom: 0px;
+background-size: 100%;
+border: 5px solid black;   
+background-color: gray;
+float: left;
+}
+
+.Konrad{
+    width: auto;
+    height: 100px; 
+}
+
+.box1{
+width: 15%;
+height: 70%;
+float: right;
+color:rgb(26, 140, 270);
+text-align: center;
+padding-top: 37px;
+font-size: 18px;
+font-weight: bold;
+}
+
+.box1:hover{
+    color: blue;
+}
+
+.icon{
+    height: 100%;
+    width: auto;
+}
