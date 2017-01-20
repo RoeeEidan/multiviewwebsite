@@ -45,11 +45,11 @@ section h1{
     max-width: 200px; 
     max-height: 200px;
     border-radius: 50%;
-    margin: 10px 50px;
+    margin: 10px 30px;
 }
 
 .emp {
-    margin: 25px;
+    margin: 24px;
     padding: 20px 0px;
     float: left;
     text-align: center;
